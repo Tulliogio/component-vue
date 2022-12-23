@@ -1,10 +1,6 @@
 # components-1
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+you can see the result and try this app directly at https://component-vue.netlify.app/ .
+![component](https://user-images.githubusercontent.com/117450061/209368111-aaef180c-caa7-45c2-82d4-5c6c961d1a83.png)
 
 ## Customize configuration
 
